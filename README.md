@@ -2,7 +2,7 @@
 
 ## Project overview
 
-Vitals in Orbit (V.I.O) is an offline-first astronaut health monitoring web app designed for long-duration crewed missions. It helps astronauts compare each health measurement to their own personal baseline, identify early warnings, and get plain-language guidance before symptoms escalate.
+Vitals in Orbit (V.I.O) is a astronaut health monitoring web app designed for long-duration crewed missions. It helps astronauts compare each health measurement to their own personal baseline, identify early warnings, and get plain-language guidance before symptoms escalate.
 
 ## Screenshots
 
@@ -19,7 +19,7 @@ Placeholder for screenshots or GIFs:
 - Guided daily check-in for vitals, sleep, mood, nutrition, exercise, symptoms, and radiation
 - Alert engine that compares each reading to baseline and safety limits
 - Readiness score, hazard mapping, recent alert timeline, and mission routine reminders
-- Offline storage via localStorage and a PWA-ready service worker
+- Storage via localStorage and a PWA-ready service worker
 - Printable ground-link summary for a flight surgeon
 - Demo data showing realistic stress/sleep drift and infection-like patterns
 
